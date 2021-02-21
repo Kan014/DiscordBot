@@ -8,7 +8,7 @@ discord.js v12 (Esta es la versión actual)
 Si tienes un editor de código solo tienes que instalar node y discord.js
 
 node => Debes ir a la página de node oficial
-discord.js => npm i discord.js --save
+discord.js => npm i discord.js --save // Esto ejecutando la consola del mismo editor o el simbolo de sistema (cmd)
 
 Si vas a usar un editor online, repl.it, glich, entre otros.
 
