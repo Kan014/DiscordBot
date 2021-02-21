@@ -1,0 +1,3 @@
+Aquí unos códigos de ejemplo que ahora mismo, funcionan en la version 12 de discord.js
+
+Si tiene fallos, no duden en preguntar :D
