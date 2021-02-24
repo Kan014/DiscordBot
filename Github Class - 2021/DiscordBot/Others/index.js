@@ -4,7 +4,7 @@ const client = new Discord.Client(); // Definimos client
 // Evento ready
 client.on('ready', () => {
   console.log(`Estoy listo sesión iniciada como ${client.user.tag}`); // Esto será retornado por la consola
-  client.user.setActivity(`Github.com`, { type: "WATCHING" }); // setActivity será el estado de nuestro, lo que se debe mostrar en el estado, según lo establecido [Viendo Github.com]
+  client.user.setActivity(`Github.com`, { type: "WATCHING" }); // setActivity será el estado de nuestro bot, lo que se debe mostrar en el estado, según lo establecido [Viendo Github.com]
 });
 
 // Evento message
